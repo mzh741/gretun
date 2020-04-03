@@ -12,7 +12,7 @@ import (
 	"syscall"
 )
 
-const serverIp = "10.5.0.18"
+const serverIp = "92.38.190.136"
 
 func main() {
 	// list of gre ip addresses, in this case /30 subnets are used for each tunnel
