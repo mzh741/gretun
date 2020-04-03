@@ -16,7 +16,7 @@ import (
 	"os"
 )
 
-const serverIp = "10.5.0.18"
+const serverIp = "92.38.190.136"
 
 func main() {
 	log.Println("GRE Tunnel Client")
